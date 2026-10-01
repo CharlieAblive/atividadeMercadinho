@@ -1,0 +1,6 @@
+usuario = str(input("Digite seu nome de usuário: "))
+idade = int(input("Digite sua idade: "))
+altura = float(input("Digite sua altura (em metros): "))
+print("Nome de usuário é", usuario, type(usuario))
+print("Idade é", idade, type(idade))
+print("Altura é", altura, type(altura))
