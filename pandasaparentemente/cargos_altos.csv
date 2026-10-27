@@ -1,0 +1,8 @@
+id;nome;salario;cargo;tempo_empresa
+20;André Moreira;7200.0;Coordenador de TI;2.0
+28;João Pedro Silva;6400.0;Cientista de Dados;6.0
+30;Marcelo Batista;6100.0;Líder Técnico;12.0
+100;Fulano da Silva;10000.0;cargoTeste;9.0
+101;Bla bla bla;9000.0;cargoTeste;999.0
+100;Fulano da Silva;10000.0;cargoTeste;
+101;Bla bla bla;9000.0;cargoTeste;
